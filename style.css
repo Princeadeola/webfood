@@ -65,7 +65,7 @@ main h1{
 }       
  
 .food-item{
-	background-color: rgb(228, 206, 182);
+	background-color: rgb(228, 206, 182); 
 	border-radius: 6px;
 	overflow: hidden;       
 }
