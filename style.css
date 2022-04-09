@@ -92,7 +92,7 @@ main h1{
 	background-color: rgb(221, 134, 34);
 }
    
-		   	/* Media Query */
+		  	/* Media Query */
 @media (max-width: 48rem){   
 	#main-header nav{
 		display: none;
